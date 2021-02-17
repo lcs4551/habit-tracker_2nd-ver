@@ -9,6 +9,7 @@ class App extends Component {
       {id: 1, name: "Reading", count: 0},
       {id: 2, name: "Cooking", count: 0},
       {id: 3, name: "Hiking", count: 0},
+      {id: 4, name: "으녕님 바보", count: 0}
     ]
   }
 
